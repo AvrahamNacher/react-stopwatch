@@ -1,0 +1,29 @@
+.container {
+    background-color: #5ddcdc;
+    height: 300px;
+    width: 500px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: inset 1px 1px 11px 2px #161975;
+    position: relative;
+}
+
+.title {
+    font-size: 3rem;
+    text-align: center;
+    color: yellow;
+    text-shadow: 1px 1px 4px black;
+}
+
+button {
+    padding: 10px 15px;
+    border-radius: 7px;
+    position: absolute;
+    left: 40%;
+    
+}
+
+button:hover {
+    background-color: white;
+}
